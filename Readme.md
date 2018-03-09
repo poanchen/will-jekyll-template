@@ -51,6 +51,7 @@ twitter_username: lorem_ipsum
 github_username:  lorem_ipsum
 gplus_username:  lorem_ipsum
 disqus_username: lorem_ipsum
+google_site_verification: jdsf78YG7df7F7df7GHfds87H
 ```
 
 **Don't forget to change your baseurl before build your site!**

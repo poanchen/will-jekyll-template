@@ -9,6 +9,11 @@
     <!-- Google Authorship Markup -->
     <link rel="author" href="https://plus.google.com/{{site.gplus_username}}?rel=author">
 
+    <!-- Google Site Verification -->
+    {% if site.google_site_verification %}
+        <meta name="google-site-verification" content="{{site.google_site_verification}}" />
+    {% endif %}
+
     <!-- Social: Twitter -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@{{site.twitter_username}}">
